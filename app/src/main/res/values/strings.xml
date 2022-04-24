@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Anonymous Chat</string>
+    <string name="you_do_not_have_chat">You don\'t have chats</string>
+    <string name="user_list">User list</string>
+    
+    <string name="you_want_create_chat">You want to create a chat with a user %s ?</string>
+    <string name="create">Create</string>\
+    <string name="chat_with">Chat with %s</string>
+</resources>
